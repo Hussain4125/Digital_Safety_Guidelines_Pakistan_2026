@@ -12,13 +12,13 @@
 
 Digital tools are now part of everyday business. Email, cloud storage, websites, online payments, social media and client platforms help small organizations work faster, but they also create risks. A stolen password, unsafe link, lost device or exposed customer file can interrupt work, damage trust and create financial loss.
 
-This guide is written for Pakistani small businesses, agencies and freelancers that may not have a dedicated cybersecurity team. Its purpose is to translate widely used cybersecurity frameworks and guidance into simple actions that can be used in local work settings. The main framework reference is the NIST Cybersecurity Framework 2.0 Small Business Quick Start Guide, which treats cybersecurity as a business risk that should be governed, identified, protected against, detected, responded to and recovered from.
+This guide is written for Pakistani small businesses, agencies and freelancers that may not have a dedicated cybersecurity team. Its purpose is to translate widely used cybersecurity frameworks and guidance into simple actions that can be used in local work settings. The main framework reference is the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 Small Business Quick Start Guide, which treats cybersecurity as a business risk that should be governed, identified, protected against, detected, responded to and recovered from.
 
 The Pakistan context is included throughout the guide so that international good practice is considered alongside local law, national policy and official incident response resources. The goal is not technical perfection. The goal is practical digital responsibility: knowing what matters, reducing avoidable risk and responding calmly when something goes wrong.
 
 ## 2. Governance and Responsibility
 
-Cybersecurity should not be treated only as an IT problem. Owners, managers, team leads and independent professionals should know which accounts, systems and data are important to their work and who is responsible for protecting them. NIST places governance at the center of cybersecurity because decisions about risk, roles, policies and priorities affect every other security action.
+Cybersecurity should not be treated only as an information technology (IT) problem. Owners, managers, team leads and independent professionals should know which accounts, systems and data are important to their work and who is responsible for protecting them. NIST places governance at the center of cybersecurity because decisions about risk, roles, policies and priorities affect every other security action.
 
 **Ownership:** Choose who is responsible for digital safety decisions. A freelancer may hold this responsibility personally.
 
@@ -30,11 +30,11 @@ Cybersecurity should not be treated only as an IT problem. Owners, managers, tea
 
 **Review:** Review access and risks when a worker joins or leaves, a new service is adopted, or an important business process changes.
 
-**Pakistan context:** Pakistan’s National Cyber Security Policy 2021 recognizes cybersecurity as a shared responsibility and aims to strengthen protection of national digital assets through coordinated governance, awareness and risk management. National CERT now provides national cybersecurity guidance, advisories and incident support.
+**Pakistan context:** Pakistan’s National Cyber Security Policy 2021 recognizes cybersecurity as a shared responsibility and aims to strengthen protection of national digital assets through coordinated governance, awareness and risk management. National Cyber Emergency Response Team of Pakistan (National CERT) now provides national cybersecurity guidance, advisories and incident support.
 
 ## 3. Common Digital Risks
 
-The most useful starting point is to understand the small number of risks that arise repeatedly in day to day work. CISA guidance for small and medium businesses emphasizes phishing protection, strong passwords, multi factor authentication, software updates, backups and data protection as practical baseline measures.
+The most useful starting point is to understand the small number of risks that arise repeatedly in day to day work. Cybersecurity and Infrastructure Security Agency (CISA) guidance for small and medium businesses emphasizes phishing protection, strong passwords, multi factor authentication, software updates, backups and data protection as practical baseline measures.
 
 **Phishing and social engineering:** Fake emails, messages, login pages, invoices or calls that try to create urgency or obtain passwords, codes or money.
 
@@ -62,9 +62,9 @@ The most useful starting point is to understand the small number of risks that a
 
 **Website and application weaknesses:** Poor access control, unsafe configuration or vulnerable software exposes online services.
 
-**Counter measure:** Keep platforms and plugins updated, use trusted developers and hosting providers, and follow recognized web security guidance such as OWASP.
+**Counter measure:** Keep platforms and plugins updated, use trusted developers and hosting providers, and follow recognized web security guidance such as the Open Worldwide Application Security Project (OWASP).
 
-**Pakistan context:** National CERT advisories in Pakistan repeatedly recommend multi factor authentication, strong access controls, phishing awareness, current software patches, offline backups and user education. Recent advisories also address threats affecting commonly used tools such as WhatsApp and WordPress, showing that local organizations face many of the same threats seen globally.
+**Pakistan context:** National CERT advisories in Pakistan reinforce these same baseline protections and also address threats affecting commonly used tools such as WhatsApp and WordPress, showing that local organizations face many of the same threats seen globally.
 
 ## 4. Essential Safety Guidelines
 
@@ -86,13 +86,13 @@ A small organization does not need a complex security program to make meaningful
 
 **Cloud storage:** Use business accounts when possible, restrict public links and review who can view or edit sensitive folders.
 
-**Websites:** Use secure hosting, HTTPS, limited administrator access and timely updates. Agencies managing client sites should document who controls accounts and backups.
+**Websites:** Use secure hosting, Hypertext Transfer Protocol Secure (HTTPS), limited administrator access and timely updates. Agencies managing client sites should document who controls accounts and backups.
 
 **Payments:** Verify changes to bank details or invoices before sending money. Never rely only on a message that asks for an urgent payment change.
 
 **People:** Make digital safety part of onboarding and routine work. A short awareness conversation can prevent many avoidable incidents.
 
-**Pakistan context:** National CERT’s cybersecurity handbook and advisories support the same general direction: clear governance, access control, data protection, risk management, incident readiness, backups and continuous awareness. This makes the international baseline suitable for adaptation to Pakistani organizations without requiring enterprise level complexity.
+**Pakistan context:** National CERT’s cybersecurity handbook and advisories support this same practical baseline for Pakistani organizations without requiring enterprise level complexity.
 
 ## 5. Data Privacy
 
@@ -118,9 +118,9 @@ Cybersecurity protects systems and information from misuse. Data privacy focuses
 
 Pakistan’s main cybercrime legislation is the Prevention of Electronic Crimes Act, 2016, as amended by the Prevention of Electronic Crimes (Amendment) Act, 2025 (Act No. II of 2025), commonly known as PECA. The law addresses conduct including unauthorized access to information systems or data, unauthorized copying or transmission of data, interference with systems or data, electronic fraud and misuse of identity information. Businesses, agencies and freelancers should understand that accessing another person’s account, system or data without authorization is not simply poor practice; it can have legal consequences.
 
-Pakistan’s National Cyber Security Policy 2021 provides the broader national direction for a secure and resilient digital environment. The CERT Rules 2023 established structures for national and sector level incident coordination, and National CERT provides support and guidance for organizations, companies and SMEs.
+Pakistan’s National Cyber Security Policy 2021 provides the broader national direction for a secure and resilient digital environment. The CERT Rules 2023 established structures for national and sector level incident coordination, and National CERT provides support and guidance for organizations, companies and small and medium-sized enterprises (SMEs).
 
-Organizations involved in regulated financial services may also face requirements issued by the State Bank of Pakistan. For example, SBP payment card security regulations establish safeguards for entities within their scope and are based on international standards and best practices. These rules do not automatically apply to every freelancer or small business, but businesses should understand the obligations that apply to their own sector and payment partners.
+Organizations involved in regulated financial services may also face requirements issued by the State Bank of Pakistan (SBP). For example, SBP payment card security regulations establish safeguards for entities within their scope and are based on international standards and best practices. These rules do not automatically apply to every freelancer or small business, but businesses should understand the obligations that apply to their own sector and payment partners.
 
 **Legal note:** This guide is educational and is not a substitute for professional legal advice. Laws, regulations and sector requirements should be checked against current official sources when making compliance decisions.
 
@@ -172,7 +172,7 @@ For broader awareness, organizations can also share these practices with staff, 
 
 ## Conclusion
 
-Digital safety is now a basic part of professional responsibility. Pakistani small businesses, agencies and freelancers do not need large security teams to reduce common risks. Clear ownership, secure accounts, current software, controlled access, careful data handling, regular backups and a simple response plan can prevent or reduce many incidents.
+Digital safety is now a basic part of professional responsibility. Pakistani small businesses, agencies and freelancers do not need large security teams to reduce common risks. Consistent use of the practical measures in this guide can prevent or reduce many incidents.
 
 Widely used cybersecurity frameworks and guidance from NIST, CISA and OWASP, together with Pakistan’s own laws, national policy and National CERT resources, point in the same direction: understand the risk, protect what matters, prepare people and respond in an organized way. The most sustainable approach for Pakistan is therefore not to copy a foreign framework word for word, but to apply proven international practices in a way that fits local businesses, local legal requirements and available resources.
 
